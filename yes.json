@@ -1,0 +1,28 @@
+{
+    "glossary": {
+      "title": "example glossary",
+      "GlossDiv": {
+        "title": "S",
+        "GlossList": {
+          "GlossEntry": {
+            "ID": "SGML",
+            "SortAs": "SGML"
+          },
+          "GlossEntry1": {
+            "ID": "SGML",
+            "SortAs": "SGML"
+          }
+        },
+        "GlossList2": {
+          "GlossEntry": {
+            "ID": "SGML",
+            "SortAs": "SGML"
+          },
+          "GlossEntry1": {
+            "ID": "SGML",
+            "SortAs": "SGML"
+          }
+        }
+      }
+    }
+  }

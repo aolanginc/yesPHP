@@ -1,0 +1,24 @@
+glossary
+    title = example glossary
+    GlossDiv 
+        title = S
+    GlossList
+        GlossEntry
+            ID = SGML
+            SortAs = SGML
+        GlossEntry
+            ID = SGML
+            SortAs = SGML
+    GlossList2
+        ID = SGML
+        SortAs = SGML
+
+        ID = SGML
+        SortAs = SGML
+
+
+
+        
+      
+    
+  

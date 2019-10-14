@@ -1,0 +1,19 @@
+users
+    id 342
+    username haoquach
+    password 2323
+    role
+
+        admin
+        dev
+    id 43434
+    username haoquach
+    password 444
+    role
+
+        admin
+        dev
+        root
+setting
+    maxuser 30
+
